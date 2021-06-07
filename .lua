@@ -42,7 +42,7 @@ end
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-	Title = "Made by rent xD",
+	Title = "rent#8392",
 	Style = 1,
 	SizeX = 300,
 	SizeY = 500,
@@ -50,7 +50,7 @@ local X = Material.Load({
 })
 
 local Y = X.New({
-	Title = "factory simulator more like yknow????"
+	Title = "Made by rent"
 })
 
 local A = Y.Toggle({
